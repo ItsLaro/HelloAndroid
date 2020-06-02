@@ -7,5 +7,6 @@
     <color name="colorBrightOrange">#ffeb9500</color>
     <color name="colorDarkOrange">#ad6e00</color>
     <color name="colorDarkNavy">#002849</color>
-    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorLightGray">#F0F0F0</color>
+    <color name="colorGray">#808080</color>
 </resources>
