@@ -1,15 +1,11 @@
 # Hello Android
 This Hello World App is a pre-work project for CodePath.org's, Mobile App Design Workshop Series.
 
-
-
 ## Required User Stories
 - [x] User sees custom text in a label - Hello from {name}!
 - [x] User see custom background color.
 - [x] User can tap a button to change the text color of the label.
-  
-  </br>
- 
+
 
 ## Optional User Stories
 - [x] User can tap a button to change the color of the background view.
